@@ -16,8 +16,7 @@ body {
     text-align: center;
     background: #3C6E71;
     color: #FFFFFF;
-    border-bottom: 10px dotted #B0C4B1;
-    border-left: 5px dotted #B0C4B1;
+    border-bottom: 10px solid #B0C4B1;
 }
 
 .border-blue {
