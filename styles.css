@@ -9,11 +9,6 @@ body {
 
 .card {
     width: 450px;
-    /* 
-    Challenge:
-    Replace the two margin properties with a 
-    single margin shorthand.
-    */
     margin: 0 auto;
     padding: 20px;
     display: flex;
